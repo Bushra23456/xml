@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<foodlist>
+    <fooditem>
+        <name>Burger</name>
+        <cost>$10</cost>
+    </fooditem>
+
+    <fooditem>
+        <name>Biryani</name>
+        <cost>$8</cost>
+    </fooditem>
+
+    <fooditem>
+        <name>Chinese</name>
+        <cost>$15</cost>
+    </fooditem>
+
+    <fooditem>
+        <name>Roll-paratha</name>
+        <cost>$15</cost>
+    </fooditem>
+
+    <fooditem>
+        <name>Pizza</name>
+        <cost>$15</cost>
+    </fooditem>
+</foodlist>
