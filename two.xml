@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<foodlist>
+    <fooditems type="Italian">
+        <name>Pizza</name>
+        <cost>$12</cost>
+    </fooditems>
+    <fooditems type="Pakistani">
+        <name>Biryani</name>
+        <cost>$8</cost>
+    </fooditems>
+    <fooditems type="American">
+        <name>Burger</name>
+        <cost>$7</cost>
+    </fooditems>
+    <fooditems type="Chinese">
+        <name>Chinese</name>
+        <cost>$15</cost>
+    </fooditems>
+</foodlist>
