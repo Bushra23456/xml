@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="one.xsl" type="text/xsl"?>
+
+<class>
+    <student>
+        <name>Bushra</name>
+        <age>18</age>
+        <number>03145</number>
+        <grade>A-one</grade>
+    </student>
+
+    <student>
+        <name>Imama</name>
+        <age>18</age>
+        <number>03144</number>
+        <grade>A-one</grade>
+    </student>
+
+    <student>
+        <name>Alina</name>
+        <age>20</age>
+        <number>03134</number>
+        <grade>A</grade>
+    </student>
+
+    <student>
+        <name>Anum</name>
+        <age>20</age>
+        <number>03143</number>
+        <grade>A</grade>
+    </student>
+</class>

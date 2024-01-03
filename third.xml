@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<organization>
+    <e:department xmlns:e="https//www.amazon.com/employees">
+        <e:name>Aasiya</e:name>
+        <e:age>20</e:age>
+        <e:salary>40000</e:salary>
+    </e:department>
+
+    <e:department xmlns:e="https//www.amazon.com/employees">
+        <e:name>Ayesha</e:name>
+        <e:age>22</e:age>
+        <e:salary>25000</e:salary>
+    </e:department>
+
+    <hr:department xmlns:hr="https//www.amazon.com/hr">
+        <hr:name>Alina</hr:name>
+        <hr:age>23</hr:age>
+        <hr:salary>30000</hr:salary>
+    </hr:department>
+</organization>
