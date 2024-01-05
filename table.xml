@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="table.xsl" type="text/xsl"?>
+
+<bank>
+    <employe>
+        <id>10234</id>
+        <name>Bushra</name>
+        <salary>100000</salary>
+        <date>30-10-2005</date>
+        <position>CEO</position>
+    </employe>
+
+    <employe>
+        <id>10235</id>
+        <name>Imama</name>
+        <salary>100000</salary>
+        <date>9-4-2004 </date>
+        <position>HR</position>
+    </employe>
+
+    <employe>
+        <id>10236</id>
+        <name>Ayesha</name>
+        <salary>50000</salary>
+        <date>2-11-2008</date>
+        <position>Manager</position>
+    </employe>
+
+    <employe>
+        <id>10237</id>
+        <name>Anumta</name>
+        <salary>30000</salary>
+        <date>22-4-2009</date>
+        <position>Staff</position>
+    </employe>
+
+    <employe>
+        <id>102378</id>
+        <name>Aasiya</name>
+        <salary>60000</salary>
+        <date>4-10-2007</date>
+        <position>HR</position>
+    </employe>
+</bank>

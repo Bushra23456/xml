@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="cd.xsl" type="text/xsl"?>
+
+<output>
+    <cd>
+        <tiltle>Empire Burlesque</tiltle>
+        <artist>Bob Diyan</artist>
+    </cd>
+    <cd>
+        <tiltle>Hide Your Heart</tiltle>
+        <artist>Bonnie Tyler</artist>
+    </cd>
+    <cd>
+        <tiltle>Greatest Hits</tiltle>
+        <artist>Dolly Parton</artist>
+    </cd>
+    <cd>
+        <tiltle>Still Got The Blues</tiltle>
+        <artist>Gray Moore</artist>
+    </cd>
+    <cd>
+        <tiltle>Eros</tiltle>
+        <artist>Eros Ramazzoti</artist>
+    </cd>
+    <cd>
+        <tiltle>One Night Only</tiltle>
+        <artist>Bee Gees</artist>
+    </cd>
+    <cd>
+        <tiltle>Sylvias Mother</tiltle>
+        <artist>Dr.Hook</artist>
+    </cd>
+    <cd>
+        <tiltle>Maggie May</tiltle>
+        <artist>Rod Steawod</artist>
+    </cd>
+    <cd>
+        <tiltle>Romanza</tiltle>
+        <artist>Andrea Boceli</artist>
+    </cd>
+    <cd>
+        <tiltle>When A Man Loves Women</tiltle>
+        <artist>Percy Slige</artist>
+    </cd>
+    <cd>
+        <tiltle>Black Angel</tiltle>
+        <artist>Savage Rose</artist>
+    </cd>
+    <cd>
+        <tiltle>1999 Grammy Nominees</tiltle>
+        <artist>Many</artist>
+    </cd>
+    <cd>
+        <tiltle>For the Good Times</tiltle>
+        <artist>Kenny Roggers</artist>
+    </cd>
+    <cd>
+        <tiltle>Big Willie Style</tiltle>
+        <artist>Will Smith</artist>
+    </cd>
+    <cd>
+        <tiltle>Tupelo Honey</tiltle>
+        <artist>Van Morrison</artist>
+    </cd>
+    <cd>
+        <tiltle>Soulsiville</tiltle>
+        <artist>Jorn Hoel</artist>
+    </cd>
+    <cd>
+        <tiltle>The Very Best OF</tiltle>
+        <artist>Cat Steaven</artist>
+    </cd>
+    <cd>
+        <tiltle>Best</tiltle>
+        <artist>Horry</artist>
+    </cd>
+    <cd>
+        <tiltle>Stop</tiltle>
+        <artist>Sam Brown</artist>
+    </cd>
+    <cd>
+        <tiltle>Today</tiltle>
+        <artist>T pau</artist>
+    </cd>
+</output>
